@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on a Discord bot using AI 🤖
+I'm currently working on a space based Minecraft mod using [Fabric](https://github.com/FabricMC/fabric) ✨🌠
 
 <!--
 **Lemonzyy/Lemonzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
